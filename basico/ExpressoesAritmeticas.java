@@ -17,7 +17,7 @@ public class ExpressoesAritmeticas {
 		
 		double result3 = Math.pow(2, 10);
 		
-		System.out.println(Math.abs(-64));
+		System.out.println();
 	}
 
 }
